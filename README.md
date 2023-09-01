@@ -1,5 +1,7 @@
 <h1 style="color: blue;">BallKnowersInc.</h1>
 
+![Photo Courtesy of OpenAI Dalle 2.0](photo.png)
+
 the quest to find the ultimate ball knower
 
 | Team      | Total Wins | Total Losses |
