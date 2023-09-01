@@ -1,4 +1,4 @@
-<h1 style="color: red;">BallKnowersInc.</h1>
+<h1 style="color: blue;">BallKnowersInc.</h1>
 
 the quest to find the ultimate ball knower
 
