@@ -3,6 +3,7 @@
 ![Photo Courtesy of OpenAI Dalle 2.0](photo.png)
 
 the quest to find the ultimate ball knower
+
 | Name    | Team         | Total Wins | Total Losses | Wins by Name |
 | ------- | ------------ | ---------- | ------------ | ------------ |
 | Nick    | Lions        | 1          | 0            | 1            |
