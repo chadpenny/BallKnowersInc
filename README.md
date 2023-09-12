@@ -14,8 +14,8 @@ the quest to find the ultimate ball knower
 |         | Saints       | 1          | 0            |              |
 |         | Vikings      | 0          | 1            |              |
 |         | Colts        | 0          | 1            |              |
-| Chad    | 49ers        | 1          | 0            | 1            |
-|         | Jets         | 0          | 0            |              |
+| Chad    | 49ers        | 1          | 0            | 2            |
+|         | Jets         | 1          | 0            |              |
 |         | Steelers     | 0          | 1            |              |
 |         | Broncos      | 0          | 1            |              |
 | Mark    | Jags         | 1          | 0            | 3            |
@@ -26,7 +26,7 @@ the quest to find the ultimate ball knower
 |         | Cowboys      | 1          | 0            |              |
 |         | Browns       | 1          | 0            |              |
 |         | Titans       | 0          | 1            |              |
-| Kyle    | Bills        | 0          | 0            | 2            |
+| Kyle    | Bills        | 0          | 1            | 2            |
 |         | Ravens       | 1          | 0            |              |
 |         | Dolphins     | 1          | 0            |              |
 |         | Bears        | 0          | 1            |              |
