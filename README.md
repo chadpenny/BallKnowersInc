@@ -1,6 +1,6 @@
 <h1 style="color: blue;">BallKnowersInc.</h1>
 
-![Photo Courtesy of OpenAI Dalle 2.0](photo.png)
+<img src="photo.png" alt="Photo Courtesy of OpenAI Dalle 2.0" width="50%">
 
 the quest to find the ultimate ball knower
 
