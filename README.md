@@ -6,28 +6,33 @@ the quest to find the ultimate ball knower
 
 | Name    | Team         | Total Wins | Total Losses | Wins by Name |
 | ------- | ------------ | ---------- | ------------ | ------------ |
-| Nick    | Lions        | 1          | 0            | 1            |
-|         | Bengals      | 0          | 1            |              |
-|         | Seahawks     | 0          | 1            |              |
-|         | Giants       | 0          | 1            |              |
-| Brandon | Chiefs       | 0          | 1            | 1            |
-|         | Saints       | 1          | 0            |              |
-|         | Vikings      | 0          | 1            |              |
-|         | Colts        | 0          | 1            |              |
-| Chad    | 49ers        | 1          | 0            | 2            |
-|         | Jets         | 1          | 0            |              |
-|         | Steelers     | 0          | 1            |              |
-|         | Broncos      | 0          | 1            |              |
-| Mark    | Jags         | 1          | 0            | 3            |
-|         | Chargers     | 0          | 1            |              |
-|         | Packers      | 1          | 0            |              |
-|         | Falcons      | 1          | 0            |              |
-| Joe     | Eagles       | 1          | 0            | 3            |
-|         | Cowboys      | 1          | 0            |              |
-|         | Browns       | 1          | 0            |              |
-|         | Titans       | 0          | 1            |              |
-| Kyle    | Bills        | 0          | 1            | 2            |
-|         | Ravens       | 1          | 0            |              |
-|         | Dolphins     | 1          | 0            |              |
-|         | Bears        | 0          | 1            |              |
+| Nick    | Lions        | 1          | 1            | 3            |
+|         | Bengals      | 0          | 2            |              |
+|         | Seahawks     | 1          | 1            |              |
+|         | Giants       | 1          | 1            |              |
+|         |              |            |              |              |
+| Brandon | Chiefs       | 1          | 1            | 4            |
+|         | Saints       | 2          | 0            |              |
+|         | Vikings      | 0          | 2            |              |
+|         | Colts        | 1          | 1            |              |
+|         |              |            |              |              |
+| Chad    | 49ers        | 2          | 0            | 4            |
+|         | Jets         | 1          | 1            |              |
+|         | Steelers     | 1          | 1            |              |
+|         | Broncos      | 0          | 2            |              |
+|         |              |            |              |              |
+| Mark    | Jags         | 1          | 1            | 4            |
+|         | Chargers     | 0          | 2            |              |
+|         | Packers      | 1          | 1            |              |
+|         | Falcons      | 2          | 0            |              |
+|         |              |            |              |              |
+| Joe     | Eagles       | 2          | 0            | 6            |
+|         | Cowboys      | 2          | 0            |              |
+|         | Browns       | 1          | 1            |              |
+|         | Titans       | 1          | 1            |              |
+|         |              |            |              |              |
+| Kyle    | Bills        | 1          | 1            | 5            |
+|         | Ravens       | 2          | 0            |              |
+|         | Dolphins     | 2          | 0            |              |
+|         | Bears        | 0          | 2            |              |
 
