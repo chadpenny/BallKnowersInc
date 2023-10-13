@@ -8,33 +8,33 @@ the quest to find the ultimate ball knower
 
 | Name    | Team         | Total Wins | Total Losses | Wins by Name |
 | ------- | ------------ | ---------- | ------------ | ------------ |
-| Nick    | Lions        | 3          | 1            | 8            |
-|         | Bengals      | 1          | 3            |              |
+| Nick    | Lions        | 4          | 1            | 10           |
+|         | Bengals      | 2          | 3            |              |
 |         | Seahawks     | 3          | 1            |              |
-|         | Giants       | 1          | 3            |              |
+|         | Giants       | 1          | 4            |              |
 |         |              |            |              |              |
-| Brandon | Chiefs       | 3          | 1            | 8            |
-|         | Saints       | 2          | 2            |              |
-|         | Vikings      | 1          | 3            |              |
-|         | Colts        | 2          | 2            |              |
+| Brandon | Chiefs       | 5          | 1            | 12           |
+|         | Saints       | 3          | 2            |              |
+|         | Vikings      | 1          | 4            |              |
+|         | Colts        | 3          | 2            |              |
 |         |              |            |              |              |
-| Chad    | 49ers        | 4          | 0            | 8            |
-|         | Jets         | 1          | 3            |              |
-|         | Steelers     | 2          | 2            |              |
-|         | Broncos      | 1          | 3            |              |
+| Chad    | 49ers        | 5          | 0            | 11           |
+|         | Jets         | 2          | 3            |              |
+|         | Steelers     | 3          | 2            |              |
+|         | Broncos      | 1          | 5            |              |
 |         |              |            |              |              |
-| Mark    | Jags         | 2          | 2            | 8            |
+| Mark    | Jags         | 3          | 2            | 10           |
 |         | Chargers     | 2          | 2            |              |
-|         | Packers      | 2          | 2            |              |
-|         | Falcons      | 2          | 2            |              |
+|         | Packers      | 2          | 3            |              |
+|         | Falcons      | 3          | 2            |              |
 |         |              |            |              |              |
-| Joe     | Eagles       | 4          | 0            | 11            |
-|         | Cowboys      | 3          | 1            |              |
+| Joe     | Eagles       | 5          | 0            | 12           |
+|         | Cowboys      | 3          | 2            |              |
 |         | Browns       | 2          | 2            |              |
-|         | Titans       | 2          | 2            |              |
+|         | Titans       | 2          | 3            |              |
 |         |              |            |              |              |
-| Kyle    | Bills        | 3          | 1            | 9            |
-|         | Ravens       | 3          | 1            |              |
-|         | Dolphins     | 3          | 1            |              |
-|         | Bears        | 0          | 4            |              |
+| Kyle    | Bills        | 3          | 2            | 11            |
+|         | Ravens       | 3          | 2            |              |
+|         | Dolphins     | 4          | 1            |              |
+|         | Bears        | 1          | 4            |              |
 
