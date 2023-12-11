@@ -30,7 +30,7 @@ our thoughts are with Aaron Rodgers and Kirk Cousins.
 |         | Packers      | 6          | 6            |              |
 |         | Falcons      | 6          | 7            |              |
 |         |              |            |              |              |
-| Joe     | Eagles       | 10         | 3            | 31           |
+| Joe     | Eagles       | 10         | 3            | 32           |
 |         | Cowboys      | 10         | 3            |              |
 |         | Browns       | 8          | 5            |              |
 |         | Titans       | 4          | 8            |              |
