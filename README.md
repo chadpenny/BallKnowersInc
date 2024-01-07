@@ -8,35 +8,37 @@ the quest to find the ultimate ball knower
 
 our thoughts are with Aaron Rodgers and Kirk Cousins. 
 
+gg kyle, i'll send u a check
+
 | Name    | Team         | Total Wins | Total Losses | Wins by Name |
 | ------- | ------------ | ---------- | ------------ | ------------ |
-| Nick    | Lions        | 9          | 4            | 26           |
-|         | Bengals      | 7          | 6            |              |
-|         | Seahawks     | 6          | 7            |              |
-|         | Giants       | 4          | 8            |              |
+| Nick    | Lions        | 11         | 5            | 32           |
+|         | Bengals      | 8          | 8            |              |
+|         | Seahawks     | 8          | 8            |              |
+|         | Giants       | 5          | 11           |              |
 |         |              |            |              |              |
-| Brandon | Chiefs       | 8          | 5            | 28           |
-|         | Saints       | 6          | 7            |              |
-|         | Vikings      | 7          | 6            |              |
-|         | Colts        | 7          | 6            |              |
+| Brandon | Chiefs       | 10         | 6            | 34           |
+|         | Saints       | 8          | 8            |              |
+|         | Vikings      | 7          | 9            |              |
+|         | Colts        | 9          | 7            |              |
 |         |              |            |              |              |
-| Chad    | 49ers        | 10         | 3            | 29           |
-|         | Jets         | 5          | 8            |              |
-|         | Steelers     | 7          | 6            |              |
-|         | Broncos      | 7          | 6            |              |
+| Chad    | 49ers        | 12         | 4            | 36           |
+|         | Jets         | 6          | 10           |              |
+|         | Steelers     | 10         | 7            |              |
+|         | Broncos      | 8          | 8            |              |
 |         |              |            |              |              |
-| Mark    | Jags         | 8          | 5            | 25           |
-|         | Chargers     | 5          | 8            |              |
-|         | Packers      | 6          | 6            |              |
-|         | Falcons      | 6          | 7            |              |
+| Mark    | Jags         | 9          | 7            | 29           |
+|         | Chargers     | 5          | 11           |              |
+|         | Packers      | 8          | 8            |              |
+|         | Falcons      | 7          | 9            |              |
 |         |              |            |              |              |
-| Joe     | Eagles       | 10         | 3            | 32           |
-|         | Cowboys      | 10         | 3            |              |
-|         | Browns       | 8          | 5            |              |
-|         | Titans       | 4          | 8            |              |
+| Joe     | Eagles       | 11         | 5            | 36           |
+|         | Cowboys      | 11         | 5            |              |
+|         | Browns       | 11         | 5            |              |
+|         | Titans       | 5          | 11           |              |
 |         |              |            |              |              |
-| Kyle    | Bills        | 7          | 6            | 31           |
-|         | Ravens       | 10         | 3            |              |
-|         | Dolphins     | 9          | 3            |              |
-|         | Bears        | 5          | 8            |              |
+| Kyle    | Bills        | 10         | 6            | 41           |
+|         | Ravens       | 13         | 4            |              |
+|         | Dolphins     | 11         | 5            |              |
+|         | Bears        | 7          | 9            |              |
 
