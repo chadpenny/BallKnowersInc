@@ -32,7 +32,7 @@ gg kyle, i'll send u a check
 |         | Packers      | 8          | 8            |              |
 |         | Falcons      | 7          | 9            |              |
 |         |              |            |              |              |
-| Joe     | Eagles       | 11         | 5            | 36           |
+| Joe     | Eagles       | 11         | 5            | 38           |
 |         | Cowboys      | 11         | 5            |              |
 |         | Browns       | 11         | 5            |              |
 |         | Titans       | 5          | 11           |              |
